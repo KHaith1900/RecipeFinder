@@ -4,8 +4,11 @@ import java.util.List;
 /**
  * This is the Ingredient File. Where all the Ingredient Objects are handled.
  * 
- * @author Gus McKee
+ * @author Abby Bellamy
+ * @author Eulices Gomez
  * @author Keith Haith
+ * @author Gus McKee
+ * @author Artem Tikhomirov
  */
 
 public class Ingredient {
