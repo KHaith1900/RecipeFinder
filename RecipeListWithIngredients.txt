@@ -1,0 +1,578 @@
+*Spicy Thai Basil Chicken:
+-Ground chicken.
+-basil leaves.
+-Red bell peppers.
+-Garlic.
+-chilies.
+-Soy sauce.
+-Fish sauce.
+-Sugar.
+-Vegetable oil.
+-Rice.
+/
+*Baked Ziti:
+-Ziti pasta.
+-Ground beef.
+-Marinara sauce.
+-Ricotta cheese.
+-Mozzarella.
+-Parmesan cheese.
+-Garlic.
+-Onion.
+-Olive oil.
+-Basil.
+-Oregano.
+-Salt.
+-Pepper.
+/
+*Tandoori Chicken:
+-Chicken.
+-Yogurt.
+-Lemon juice.
+-Ginger.
+-Garlic.
+-Garam masala.
+-Paprika.
+-Cumin.
+-Coriander.
+-Cayenne pepper.
+-Turmeric.
+-Salt.
+-Naan.
+-Cilantro.
+/
+*Lemon Herb Grilled Shrimp:
+-Shrimp.
+-Lemon juice.
+-Garlic.
+-Fresh herbs.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Vegetable Lo Mein:
+-Lo Mein noodles.
+-Mixed vegetables.
+-Soy sauce.
+-Garlic.
+-Ginger.
+-Sesame oil.
+-Olive oil.
+/
+*Chicken and Rice Casserole:
+-Chicken.
+-Rice.
+-Cream of chicken soup.
+-Sour cream.
+-Onion.
+-Garlic.
+-Chicken broth.
+-Paprika.
+-Salt.
+-Pepper.
+/
+*Tuna Salad:
+-Canned tuna.
+-Celery.
+-Red onion.
+-Mayonnaise.
+-Lemon juice.
+-Dill pickles.
+-Salt.
+-Pepper.
+/
+*Chicken Fajitas:
+-Chicken.
+-Bell peppers.
+-Onion.
+-Fajita seasoning.
+-Flour tortillas.
+-Sour cream.
+-Salsa.
+-Guacamole.
+/
+*Mediterranean Quinoa Salad:
+-Quinoa.
+-Cucumber.
+-Tomatoes.
+-Red onion.
+-Kalamata olives.
+-Feta cheese.
+-Olive oil.
+-Lemon juice.
+-Garlic.
+-Oregano.
+-Salt.
+-Pepper.
+/
+*Beef and Vegetable Stir-Fry:
+-Beef.
+-Broccoli.
+-Bell peppers.
+-Soy sauce.
+-Garlic.
+-Ginger.
+-Cornstarch.
+-Vegetable oil.
+-Rice.
+/
+*Balsamic Glazed Chicken:
+-Chicken.
+-Balsamic vinegar.
+-Brown sugar.
+-Garlic.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Stuffed Bell Peppers:
+-Bell peppers.
+-Ground beef.
+-Rice.
+-Tomato sauce.
+-Onion.
+-Garlic.
+-Worcestershire sauce.
+-Salt.
+-Pepper.
+-Italian seasoning.
+/
+*Shrimp Scampi Linguine:
+-Shrimp.
+-Linguine.
+-Butter.
+-Garlic.
+-White wine.
+-Lemon juice.
+-Parsley.
+-Red pepper flakes.
+-Olive oil.
+/
+*Spinach and Artichoke Dip:
+-Spinach.
+-Artichoke hearts.
+-Cream cheese.
+-Sour cream.
+-Mayonnaise.
+-Parmesan cheese.
+-Garlic.
+-Salt.
+-Pepper.
+/
+*Spicy Black Bean Tacos:
+-Black beans.
+-Taco shells.
+-Avocado.
+-Red onion.
+-Cilantro.
+-Lime juice.
+-Jalapeño.
+-Cumin.
+-Paprika.
+-Salt.
+-Pepper.
+/
+*Chicken Noodle Soup:
+-Chicken.
+-Egg noodles.
+-Carrots.
+-Celery.
+-Onion.
+-Garlic.
+-Chicken broth.
+-Thyme.
+-Bay leaves.
+-Salt.
+-Pepper.
+/
+*Ratatouille:
+-Eggplant.
+-Zucchini.
+-Bell peppers.
+-Tomatoes.
+-Onion.
+-Garlic.
+-Thyme.
+-Rosemary.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Lemon Garlic Butter Shrimp:
+-Shrimp.
+-Butter.
+-Garlic.
+-Lemon juice.
+-Parsley.
+-Salt.
+-Pepper.
+/
+*Honey Mustard Glazed Salmon:
+-Salmon.
+-Dijon mustard.
+-Honey.
+-Lemon juice.
+-Garlic.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Beef and Broccoli Stir-Fry:
+-Beef.
+-Broccoli.
+-Bell peppers.
+-Soy sauce.
+-Garlic.
+-Ginger.
+-Brown sugar.
+-Cornstarch.
+-Vegetable oil.
+-Rice.
+/
+*Tomato Basil Mozzarella Salad:
+-Tomatoes.
+-Mozzarella.
+-Fresh basil leaves.
+-Balsamic vinegar.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Roasted Garlic Mashed Potatoes:
+-Potatoes.
+-Roasted garlic.
+-Butter.
+-Milk.
+-Salt.
+-Pepper.
+/
+*Teriyaki Chicken:
+-Chicken.
+-Soy sauce.
+-Mirin.
+-Sugar.
+-Garlic.
+-Ginger.
+-Sesame seeds.
+-Green onions.
+-Sesame oil.
+-Rice.
+/
+*Vegetable and Lentil Soup:
+-Lentils.
+-Carrots.
+-Celery.
+-Onion.
+-Garlic.
+-Vegetable broth.
+-Cumin.
+-Paprika.
+-Bay leaves.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Pesto Pasta with Cherry Tomatoes:
+-Penne pasta.
+-Basil pesto.
+-Cherry tomatoes.
+-Garlic.
+-Olive oil.
+-Parmesan cheese.
+-Pine nuts.
+-Salt.
+-Pepper.
+/
+*Teriyaki Salmon:
+-Salmon.
+-Teriyaki sauce.
+-Garlic.
+-Ginger.
+-Soy sauce.
+-Brown sugar.
+-Green onions.
+-Sesame seeds.
+-Rice.
+/
+*Spinach and Mushroom Stuffed Chicken:
+-Chicken.
+-Spinach.
+-Mushrooms.
+-Garlic.
+-Mozzarella.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Vegetable Spring Rolls:
+-Rice paper wrappers.
+-Shredded lettuce.
+-Bean sprouts.
+-Carrots.
+-Cucumber.
+-Avocado.
+-Fresh mint leaves.
+-Cilantro.
+-Peanut sauce.
+/
+*Crispy Lemon Garlic Chicken:
+-Chicken.
+-Lemon juice.
+-Garlic.
+-Flour.
+-Paprika.
+-Thyme.
+-Salt.
+-Pepper.
+-Olive oil.
+/
+*Classic Caesar Salad:
+-Romaine lettuce.
+-Croutons.
+-Parmesan cheese.
+-Caesar dressing.
+-Lemon juice.
+-Garlic.
+-Anchovy paste.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Shrimp and Vegetable Skewers:
+-Shrimp.
+-Bell peppers.
+-Zucchini.
+-Red onion.
+-Cherry tomatoes.
+-Garlic.
+-Olive oil.
+-Lemon juice.
+-Thyme.
+-Rosemary.
+-Salt.
+-Pepper.
+/
+*Honey Garlic Glazed Chicken:
+-Chicken drumsticks.
+-Honey.
+-Soy sauce.
+-Garlic.
+-Ginger.
+-White vinegar.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Caprese Stuffed Avocado:
+-Avocado.
+-Tomato.
+-Mozzarella.
+-Fresh basil leaves.
+-Balsamic glaze.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Spicy Chipotle Chicken Tacos:
+-Chicken.
+-Chipotle peppers.
+-Adobo sauce.
+-Garlic.
+-Lime juice.
+-Cumin.
+-Chili powder.
+-Olive oil.
+-Taco shells.
+-Red cabbage.
+-Cilantro.
+-Cotija cheese.
+-Lime wedges.
+/
+*Pineapple Fried Rice:
+-Rice.
+-Shrimp.
+-Pineapple chunks.
+-Peas.
+-Carrots.
+-Onion.
+-Garlic.
+-Soy sauce.
+-Curry powder.
+-Salt.
+-Pepper.
+/
+*Stuffed Portobello Mushrooms:
+-Portobello mushrooms.
+-Spinach.
+-Feta cheese.
+-Garlic.
+-Olive oil.
+-Balsamic vinegar.
+-Thyme.
+-Oregano.
+-Salt.
+-Pepper.
+/
+*Chimichurri Grilled Steak:
+-Steak.
+-Chimichurri sauce.
+-Garlic.
+-Olive oil.
+-Red wine vinegar.
+-Cilantro.
+-Parsley.
+-Oregano.
+-Red pepper flakes.
+-Salt.
+-Pepper.
+/
+*Eggplant and Zucchini Parmesan:
+-Eggplant.
+-Zucchini.
+-Marinara sauce.
+-Mozzarella.
+-Parmesan cheese.
+-Breadcrumbs.
+-Egg.
+-Olive oil.
+-Basil.
+-Oregano.
+-Salt.
+-Pepper.
+/
+*Cilantro Lime Grilled Chicken:
+-Chicken.
+-Fresh cilantro.
+-Lime juice.
+-Garlic.
+-Cumin.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Creamy Mushroom Risotto:
+-Rice.
+-Mushrooms.
+-Onion.
+-Garlic.
+-White wine.
+-Chicken broth.
+-Heavy cream.
+-Butter.
+-Parmesan.
+-Thyme.
+-Salt.
+-Pepper.
+/
+*Zesty Cilantro Lime Shrimp:
+-Shrimp.
+-Fresh cilantro.
+-Lime juice.
+-Garlic.
+-Cumin.
+-Olive oil.
+-Red pepper flakes.
+-Salt.
+-Pepper.
+/
+*Chickpea and Spinach Curry:
+-Chickpeas.
+-Spinach.
+-Tomatoes.
+-Onion.
+-Garlic.
+-Ginger.
+-Curry powder.
+-Cumin.
+-Coriander.
+-Turmeric.
+-Cayenne pepper.
+-Coconut milk.
+-Olive oil.
+-Rice.
+/
+*Classic Margarita Pizza:
+-Pizza dough.
+-Tomato sauce.
+-Mozzarella.
+-Fresh basil leaves.
+-Olive oil.
+-Garlic.
+-Salt.
+-Pepper.
+/
+*Lemon Blueberry Muffins:
+-All-purpose flour.
+-Blueberries.
+-Lemon zest.
+-Lemon juice.
+-Sugar.
+-Eggs.
+-Butter.
+-Milk.
+-Baking powder.
+-Baking soda.
+-Vanilla extract.
+-Salt.
+/
+*Ginger Sesame Tofu:
+-Tofu.
+-Soy sauce.
+-Sesame oil.
+-Garlic.
+-Ginger.
+-Maple syrup.
+-Rice vinegar.
+-Green onions.
+-Sesame seeds.
+-Broccoli.
+-Carrots.
+-Rice.
+/
+*Spicy Cajun Shrimp Pasta:
+-Shrimp.
+-Fettuccine.
+-Cajun seasoning.
+-Heavy cream.
+-Garlic.
+-Butter.
+-Olive oil.
+-Green onions.
+-Parsley.
+-Lemon juice.
+-Salt.
+-Pepper.
+/
+*Caprese Stuffed Chicken:
+-Chicken.
+-Tomato.
+-Fresh mozzarella.
+-Fresh basil.
+-Balsamic glaze.
+-Olive oil.
+-Salt.
+-Pepper.
+/
+*Creamy Garlic Parmesan Pasta:
+-Fettuccine.
+-Heavy cream.
+-Parmesan.
+-Garlic.
+-Butter.
+-Olive oil.
+-Parsley.
+-Salt.
+-Pepper.
+/
+*Honey Sriracha Glazed Salmon:
+-Salmon.
+-Honey.
+-Sriracha sauce.
+-Garlic.
+-Ginger.
+-Soy sauce.
+-Lime juice.
+-Olive oil.
+-Salt.
+-Pepper.
+/
