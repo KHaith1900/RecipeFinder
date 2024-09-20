@@ -30,6 +30,16 @@ public class Ingredient {
 	}
 
 	/**
+	 * getIngredientList which returns the ingredientList object created.
+	 * 
+	 * @param void
+	 * @return ArrayList - the ingredientList
+	 */
+	public ArrayList<String> getIngredientList() {
+		return ingredientList;
+	}
+
+	/**
 	 * addIngredient which takes an Ingredient
 	 * and adds it to the list.
 	 * 
