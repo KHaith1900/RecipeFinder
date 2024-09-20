@@ -1,3 +1,4 @@
+package src.main;
 
 /**
  * This is the main Recipe entity for the project.
